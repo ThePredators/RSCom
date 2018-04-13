@@ -7,6 +7,6 @@ https://www.arduino.cc/en/Main/Software
 
 ## The file UsbControllerActivity.java :
 Expose 3 Method :
--- startRSConnection : to start the connection between Android Device and Arduino Card using OTG cable.
--- sendRsData : to send data to the Arduino Card.
--- stopRSConnection : to stop the connection between Android Device and Arduino Card using OTG cable.
++ startRSConnection : to start the connection between Android Device and Arduino Card using OTG cable.
++ sendRsData : to send data to the Arduino Card.
++ stopRSConnection : to stop the connection between Android Device and Arduino Card using OTG cable.
